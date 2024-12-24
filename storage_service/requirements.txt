@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy  # For PostgreSQL
+pymongo     # For MongoDB
+python-dotenv
+pydantic
+pydantic-settings
+asyncpg     # For async PostgreSQL operations
+llama-index
+openai
+chromadb
+llama-index-vector-stores-chroma
+llama-index-vector-stores-postgres
+motor
+pgvector
+psycopg2-binary  # PostgreSQL adapter
