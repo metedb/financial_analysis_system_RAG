@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+yfinance==0.2.51
+tenacity
+httpx
+python-dotenv
+aiohttp  
+pydantic-settings
